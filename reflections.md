@@ -1,6 +1,6 @@
 **This is my first reflection file for Crafting Digital History with Shawn Graham**
 
-#Today I - 
+# Today I - 
 
 * Set up my Github account
 * Installed Zotero and Zotero chrome plugin
